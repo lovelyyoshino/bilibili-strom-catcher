@@ -6,6 +6,6 @@ certifi==2022.12.7
 chardet==3.0.4
 idna==2.6
 multidict==3.3.2
-requests==2.18.4
+requests==2.31.0
 urllib3==1.26.5
 yarl==0.13.0
